@@ -4,4 +4,5 @@ nemj oruulsan neg branch dr hiisen
 dahin nemj oruullaa
 # Title
 # Description
+![Description of the diagram](images/Process Diagram.JPG)
 # How to install
